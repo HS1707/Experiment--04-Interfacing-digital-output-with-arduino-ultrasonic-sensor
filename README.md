@@ -105,20 +105,8 @@ void loop()
     digitalWrite(red,LOW);
     delay(500);
   }
-    
-    
-      
-  
-  
-    
-  
 }
 ```
-
-
-
-
-
 
 ### FIG 1:Distance vs measurement table 
 ![EXP 4 TABLE](https://github.com/dineshdk154/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/104413084/d4178c37-beb3-48b2-ae51-03105b79a1c0)
